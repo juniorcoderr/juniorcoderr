@@ -30,9 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juniorcoderr&" alt="juniorcoderr" /></p>
 
-Contact - 
-For any questions or suggestions, feel free to contact me at:
-
-# Email: ervinayakyadav@gmail.com
-# Instagram: @vinayakyadavv_
 
