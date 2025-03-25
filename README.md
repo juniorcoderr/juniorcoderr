@@ -19,6 +19,8 @@
 <a href="https://instagram.com/vinayakyadavv_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinayakyadavv_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/netgoluyadav337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="netgoluyadav337" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/juniorcoderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="juniorcoderr" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/vinayakyadav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/vinayakyadav_" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ervinayalhl0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ervinayalhl0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
