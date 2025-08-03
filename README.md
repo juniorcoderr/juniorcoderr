@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vinayak Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juniorcoderr&label=Profile%20views&color=0e75b6&style=flat" alt="juniorcoderr" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=juniorcoderr&label=Profile%20views&color=0e75b6&style=flat" alt="juniorcoderr" />   
+  <img src="https://profile-counter.glitch.me/juniorcoderr/count.svg" alt="juniorcoderr profile view count" />
+</p>
 
 - 🌱 I’m currently learning **Microservices**
 
@@ -29,4 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juniorcoderr&show_icons=true&locale=en&layout=compact" alt="juniorcoderr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorcoderr&show_icons=true&locale=en" alt="juniorcoderr" /></p>
-
