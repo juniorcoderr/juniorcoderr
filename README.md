@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Microservices**
 
-- 💬 Ask me about **MERN, next.js and DSA**
+- 💬 Ask me about **MERN stack, Next.js and DSA**
 
 - 📫 How to reach me **ervinayakyadav@gmail.com**
 
